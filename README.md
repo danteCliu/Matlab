@@ -1,2 +1,2 @@
 # Matlab
-matlab code or gui
+matlab code or gui for X ray diffraction simulate.
